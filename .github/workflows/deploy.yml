@@ -8,8 +8,8 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: frontend-eval3
-  ECS_CLUSTER: devops-cluster
-  ECS_SERVICE: frontend-service
+  ECS_CLUSTER: devops-eva3-cluster
+  ECS_SERVICE: app-service
 
 jobs:
   build:
