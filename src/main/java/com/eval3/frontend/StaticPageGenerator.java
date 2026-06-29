@@ -87,7 +87,7 @@ public class StaticPageGenerator {
             <section id="register-section" class="section">
                 <div class="section-header">
                     <h2>Registro de Usuario</h2>
-                    <p>Complete el formulario para registrarse</p>
+                    <p>Complete el formulario para registrarse por favor</p>
                 </div>
                 <form id="register-form" class="register-form">
                     <div class="form-group">
